@@ -1,1 +1,1 @@
-# TP0
+# TP0 - prise en main
